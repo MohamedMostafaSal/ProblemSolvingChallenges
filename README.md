@@ -3,6 +3,7 @@ Some problem solving challenges that I tackled.
 
 
 1- The 10 word guessing challenge:
+
       Alice and Bob play the following game:
       Alice chooses a 10-letter word from a fixed dictionary, uniformly at random
       At each turn Bob proposes a word from the same dictionary
